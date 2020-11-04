@@ -1,0 +1,13 @@
+C:\Users\USER\tugasrendi\bin\Debug\netcoreapp3.1\tugasrendi.exe
+C:\Users\USER\tugasrendi\bin\Debug\netcoreapp3.1\tugasrendi.deps.json
+C:\Users\USER\tugasrendi\bin\Debug\netcoreapp3.1\tugasrendi.runtimeconfig.json
+C:\Users\USER\tugasrendi\bin\Debug\netcoreapp3.1\tugasrendi.runtimeconfig.dev.json
+C:\Users\USER\tugasrendi\bin\Debug\netcoreapp3.1\tugasrendi.dll
+C:\Users\USER\tugasrendi\bin\Debug\netcoreapp3.1\tugasrendi.pdb
+C:\Users\USER\tugasrendi\obj\Debug\netcoreapp3.1\tugasrendi.csprojAssemblyReference.cache
+C:\Users\USER\tugasrendi\obj\Debug\netcoreapp3.1\tugasrendi.AssemblyInfoInputs.cache
+C:\Users\USER\tugasrendi\obj\Debug\netcoreapp3.1\tugasrendi.AssemblyInfo.cs
+C:\Users\USER\tugasrendi\obj\Debug\netcoreapp3.1\tugasrendi.csproj.CoreCompileInputs.cache
+C:\Users\USER\tugasrendi\obj\Debug\netcoreapp3.1\tugasrendi.dll
+C:\Users\USER\tugasrendi\obj\Debug\netcoreapp3.1\tugasrendi.pdb
+C:\Users\USER\tugasrendi\obj\Debug\netcoreapp3.1\tugasrendi.genruntimeconfig.cache
